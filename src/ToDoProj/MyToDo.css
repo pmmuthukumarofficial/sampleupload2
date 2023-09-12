@@ -1,0 +1,9 @@
+.my-todo{
+    text-align: center;
+}
+
+.task
+{
+    display: flex;
+    justify-content: space-around;
+}
