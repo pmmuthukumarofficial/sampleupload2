@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pmmuthukumarofficial/sampleupload2/static/css/main.964fdded.css",
+    "main.js": "/pmmuthukumarofficial/sampleupload2/static/js/main.ba2295b1.js",
+    "index.html": "/pmmuthukumarofficial/sampleupload2/index.html",
+    "main.964fdded.css.map": "/pmmuthukumarofficial/sampleupload2/static/css/main.964fdded.css.map",
+    "main.ba2295b1.js.map": "/pmmuthukumarofficial/sampleupload2/static/js/main.ba2295b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.ba2295b1.js"
+  ]
+}
